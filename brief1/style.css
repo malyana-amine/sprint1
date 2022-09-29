@@ -29,3 +29,33 @@ h1{
 p{
     font-weight: bold;
 }
+.cards{
+    margin-left: 20PX;
+    border: 2PX rgb(0, 0, 0) solid;
+    width: 200PX;
+    height: 350PX;
+    
+}
+#RR{
+    color: rgb(167, 167, 167);
+}
+#SA{
+    color: rgb(0, 212, 78);
+}
+.card{
+    margin-top: 7PX;
+    text-align: center;
+
+}
+.big {
+    display:flex;
+}
+.card1{
+    margin-top: 7PX;
+    text-align: center;
+    background-color: aqua;
+    width: 90px;
+    height: 30PX;
+    border: 34PX rgb(0, 217, 255) solid;
+
+}
