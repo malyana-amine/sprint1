@@ -1,7 +1,9 @@
-nav{
-    display:flex;
-}
+
 ul{
+    display:flex;
+    list-style-type:none;
+}
+ol{
     display:flex;
     list-style-type:none;
 }
@@ -15,6 +17,15 @@ a:hover{
     text-decoration:underline;
 
 }
-li{
-    padding: 40PX;
+ul li{
+    padding: 20PX;
+}
+ol li{
+    padding: 20PX;
+}
+h1{
+    font-weight: bold;  
+}
+p{
+    font-weight: bold;
 }
