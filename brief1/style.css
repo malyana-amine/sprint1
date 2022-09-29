@@ -34,6 +34,7 @@ p{
     border: 2PX rgb(0, 0, 0) solid;
     width: 200PX;
     height: 350PX;
+    padding: 2%;
     
 }
 #RR{
@@ -49,6 +50,7 @@ p{
 }
 .big {
     display:flex;
+
 }
 .card1{
     margin-top: 7PX;
@@ -58,4 +60,15 @@ p{
     height: 30PX;
     border: 34PX rgb(0, 217, 255) solid;
 
+}
+.box{
+    
+
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+    height: 160PX;
+    }
+.prodc{
+    text-align: center;
 }
